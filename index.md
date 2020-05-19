@@ -1,4 +1,18 @@
 ### 个人基本信息
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>沙昊</h1>
+      <p><b>北京科技大学/USTB </b></p>
+      <p><b>自动化学院/SAEE</b></p>
+      <p><b>邮箱：ustb_shahao@163.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/181A0897.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+
 - 2017.09-至今   北京科技大学/USTB      自动化学院/SAEE         自动化专业
 - 学习情况：      加权成绩：93.049		  GPA:3.81/4.00	   		专业排名：3/167（1.8% ）
 - 英    语：      CET4 : 528              CET6 : 549
