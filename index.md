@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+###个人基本信息
+###技能
+###兴趣方向
+###项目经历
+####1，全国大学生机器人大赛ROBOMASTER 机甲大师赛      校机器人队成员       [2018.9-2019.8]
+    作为2019届电控组成员，主要负责“英雄“机器人的嵌入式开发以及控制算法工作, 并获得ROBOMASTER2019单项赛全国特等奖；后作为2020届电控组长留队培训新成员。 
+####2，清华大学智能技术与系统国家实验室实习 （宋亦旭老师课题组）               [2019.10 - 2020.1]
+实习主题为用于环甲膜穿刺手术的UR5机械臂运动控制和规划。通过V-REP仿真平台学习了机器人正逆运动学、动力学基础知识，并实践了UR5机械臂的编程控制和基于力反馈的人机协作控制方案。
+####3，《数字图像处理》课程实验平台项目   （北京科技大学 付冬梅老师指导）      [2020.3 - 2020.5]独立承担课程实验软件平台开发的项目：软件架构使用python搭建 , GUI基于 Qt，图像处理算法基于OpenCV，目前已完成软件1.0版本，正在完善功能并申请软件著作权。
+####4，亿智杯人工智能大赛
+####5，计算机设计大赛 AlphaHex 海克斯棋智能博弈软件
 
-You can use the [editor on GitHub](https://github.com/SteveHao74/SteveHao74.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SteveHao74/SteveHao74.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###奖项荣誉
