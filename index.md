@@ -9,7 +9,7 @@
       <p><b>邮箱：ustb_shahao@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/生活照.jpg" width="50%">     
+      <img src="/生活照.jpg" width="150%">     
     </td>
   </tr>
 </table>
