@@ -50,10 +50,10 @@
  <table border="0">
   <tr>
     <td width="50%">
-      <img src="/YIZHI_1.jpg" width="350%">     
+      <img src="/YIZHI_1.jpg" width="100%">     
     </td>
         <td width="50%">
-      <img src="/YIZHI_2.jpg" width="350%">     
+      <img src="/YIZHI_2.jpg" width="100%">     
     </td>
 
   </tr>
