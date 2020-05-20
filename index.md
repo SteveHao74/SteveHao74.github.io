@@ -31,13 +31,13 @@
  <table border="0">
   <tr>
     <td width="33%">
-      <img src="/生活照.jpg" width="350%">     
+      <img src="/RM1.jpg" width="350%">     
     </td>
         <td width="33%">
-      <img src="/生活照.jpg" width="350%">     
+      <img src="/RM2.jpg" width="350%">     
     </td>
         <td width="33%">
-      <img src="/生活照.jpg" width="350%">     
+      <img src="/RM3.jpg" width="350%">     
     </td>
   </tr>
 </table>
@@ -47,6 +47,17 @@
 #### 3，《数字图像处理》课程实验平台项目   （北京科技大学 付冬梅老师指导）      [2020.3 - 2020.5]
 独立承担课程实验软件平台开发的项目：软件架构使用python搭建 , GUI基于 Qt，图像处理算法基于OpenCV，目前已完成软件1.0版本，正在完善功能并申请软件著作权。
 #### 4，亿智杯人工智能大赛
+ <table border="0">
+  <tr>
+    <td width="50%">
+      <img src="/YIZHI_1.jpg" width="350%">     
+    </td>
+        <td width="50%">
+      <img src="/YIZHI_2.jpg" width="350%">     
+    </td>
+
+  </tr>
+</table>
 #### 5，计算机设计大赛 AlphaHex 海克斯棋智能博弈软件
 
 ### 奖项荣誉
