@@ -8,7 +8,7 @@
       <p><b>政治面貌：预备党员</b></p>
       <p><b>邮箱：ustb_shahao@163.com</b></p>
     </td>
-    <td width="50%">
+    <td width="60%">
       <img src="/生活照.jpg" width="350%">     
     </td>
   </tr>
