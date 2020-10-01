@@ -80,10 +80,10 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/YIZHI_1.jpg" width="50%">     
+      <img src="/smcar.png" width="100%">     
     </td>
         <td width="50%">
-      <img src="/smcar.png" width="100%">     
+      <img src="/YIZHI_1.jpg" width="50%">     
     </td>
 
   </tr>
