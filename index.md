@@ -52,7 +52,7 @@
 
 #### 3，《数字图像处理》课程实验软件平台（北京科技大学 付冬梅老师指导）　[2020.3-2020.5]
 - 独立承担该软件平台的全部开发工作，包括：软件架构搭建（基于python），图形交互界面搭建（基于Qt），五项综合实验及相应图像处理算法设计，软件教程和开发文档撰写。现已完成软件1.0版本并封装交付测试。
-<table border="0">
+<table border="1">
   <tr>
     <td width="50%">
       <img src="/image1.png" width="80%">     
@@ -65,7 +65,7 @@
 </table>
 #### 4，中国大学生计算机设计大赛 
 - 和自己的小团队开发了一款海克斯棋智能博弈软件－《AlphaHex》 ，获中国大学生计算机设计大赛一等奖。在其中负责软件UI开发。
-<table border="0">
+<table border="1">
   <tr>
     <td width="50%">
       <img src="/alphahex2.png" width="80%">     
@@ -79,13 +79,13 @@
 
 #### 5，智能车校内赛和亿智杯人工智能大赛　两项校内冠军
 - 和自己的小团队开发了两款轮式机器人：左下是两轮直立平衡车；右下是智能人脸跟拍车；均在其中负责嵌入式控制。
-<table border="0">
+<table border="1">
   <tr>
     <td width="50%">
       <img src="/smcar.png" width="100%">     
     </td>
         <td width="50%">
-      <img src="/YIZHI_1.jpg" width="50%">     
+      <img src="/YIZHI_1.jpg" width="100%">     
     </td>
 
   </tr>
