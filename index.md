@@ -54,7 +54,7 @@
       <img src="/image1.png" width="80%">     
     </td>
         <td width="50%">
-      <img src="/image2.png" width="80%">     
+      <img src="/image2.png" width="100%">     
     </td>
 
   </tr>
