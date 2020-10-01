@@ -5,11 +5,11 @@
       <h1>沙昊</h1>
       <p><b>北京科技大学/USTB </b></p>
       <p><b>自动化学院/SAEE</b></p>
-      <p><b>政治面貌：预备党员</b></p>
+      <p><b>政治面貌：中共党员</b></p>
       <p><b>邮箱：ustb_shahao@163.com</b></p>
     </td>
     <td width="60%">
-      <img src="/生活照.jpg" width="350%">     
+      <img src="/生活照.jpg" width="300%">     
     </td>
   </tr>
 </table>
