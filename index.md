@@ -51,10 +51,10 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/image1.png" width="80%">     
+      <img src="/image1.jpg" width="80%">     
     </td>
         <td width="50%">
-      <img src="/image2.png" width="80%">     
+      <img src="/image2.jpg" width="80%">     
     </td>
 
   </tr>
