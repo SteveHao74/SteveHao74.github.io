@@ -51,7 +51,7 @@
 <table border="1">
   <tr>
     <td width="50%">
-      <img src="/image1.png" width="80%">     
+      <img src="/manipulator.png" width="80%">     
     </td>
   </tr>
 </table>
@@ -88,10 +88,10 @@
 <table border="1">
   <tr>
     <td width="50%">
-      <img src="/smcar.png" width="100%">     
+      <img src="/smcar.png" width="150%">     
     </td>
         <td width="50%">
-      <img src="/YIZHI_1.jpg" width="100%">     
+      <img src="/YIZHI_1.jpg" width="50%">     
     </td>
 
   </tr>
