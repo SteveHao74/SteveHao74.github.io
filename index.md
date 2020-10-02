@@ -51,7 +51,7 @@
 <table border="1">
   <tr>
     <td width="50%">
-      <img src="/manipulator.png" width="80%">     
+      <img src="/ur5.png" width="80%">     
     </td>
   </tr>
 </table>
