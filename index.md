@@ -3,13 +3,13 @@
   <tr>
     <td width="50%">
       <h1>沙昊</h1>
-      <p><b>北京科技大学/USTB </b></p>
-      <p><b>自动化学院/SAEE</b></p>
+      <p><b>浙江大学/ZJU </b></p>
+      <p><b>控制科学与工程学院/SAEE</b></p>
       <p><b>政治面貌：中共党员</b></p>
-      <p><b>邮箱：ustb_shahao@163.com</b></p>
+      <p><b>邮箱：shahao@zju.edu.cn</b></p>
     </td>
     <td width="60%">
-      <img src="/个人照.jpg" width="260%">     
+      <img src="/个人照.jpg" width="100%">     
     </td>
   </tr>
 </table>
@@ -19,6 +19,7 @@
 - 2017.09-2021.07　　北京科技大学/USTB　　自动化学院/SAEE　　自动化专业
 - 学习情况：　　　综合成绩：96.17　　　GPA:3.84/4.00　　　专业排名：3/168（1.8%）
 - 英　　语：　　　CET4 : 528　　　　　　CET6 : 549
+
 研究生
 - 2021.09-至今　 浙江大学/ZJU　　控制科学与工程学院　　ZJU Robotics Lab  
 - 研究方向：     多机器人协作，多智能体强化学习方向 
