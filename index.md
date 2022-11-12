@@ -9,7 +9,7 @@
       <p><b>邮箱：shahao@zju.edu.cn</b></p>
     </td>
     <td width="60%">
-      <img src="/个人照.jpg" width="100%">     
+      <img src="/个人照.jpg" width="200%">     
     </td>
   </tr>
 </table>
